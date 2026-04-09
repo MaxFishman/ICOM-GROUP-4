@@ -48,3 +48,25 @@ Every group should assign:
 	4.	Frontend Developer (Layout)
 	5.	Frontend Developer (Interaction)
 	6.	Quality Assurance and Debugging 
+
+Each group must create:
+	•	Brand mission (1–2 sentences)
+	•	Tone of voice (playful, professional, experimental, etc.)
+	•	Color palette (3–5 colors)
+	•	Typography pair (heading + body font)
+	•	Logo (simple text or symbol)
+
+	Students must design and build:
+	•	Buttons (primary, secondary)
+	•	Cards (product, blog, profile)
+	•	Navigation bar
+	•	Footer
+
+	Each page must include:
+	•	At least 3–4 distinct sections
+
+    Example (Home page):
+	•	Hero
+	•	Feature section
+	•	Content grid
+	•	CTA
